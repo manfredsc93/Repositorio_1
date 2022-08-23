@@ -7,3 +7,5 @@
 **Texto en negrita**
 
 *Itálicas*
+
+***Mixto***
