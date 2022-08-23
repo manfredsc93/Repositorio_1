@@ -9,4 +9,5 @@
 *Itálicas*
 
 ***Mixto***
-[Ver viden en](https://www.youtube.com/?gl=es)
+
+[Ver video en](https://www.youtube.com/?gl=es)
